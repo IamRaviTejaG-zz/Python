@@ -182,5 +182,5 @@ main();
 8. main(); -> ENOUGH FOLKS, IT WAS JUST A FUNCTION CALL. THAT'S IT. NOW RELAX, AND ENJOY THE GAME!!!"""
 
 
-""" DESIgned with love in INDIA. (MAKE IN INDIA). :P. """
+""" DESIgned from scratch by Ravi Teja Gannavarapu with love in INDIA. (MAKE IN INDIA). :P. """
 """ DOCUMENTATION ENDS """
