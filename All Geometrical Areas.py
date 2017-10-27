@@ -1,6 +1,3 @@
-# Program to calculate the area of geometrical figures.
-# Created By G.Ravi Teja initially in November 2015, updated in May, June 2016.
-
 from math import sqrt, pi
 
 print ("Enter 1 to find area of a square.")
