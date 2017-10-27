@@ -1,5 +1,3 @@
-# Created By G.Ravi Teja on 5th June 2016.
-
 num = raw_input("Enter a three digit number to check if its a armstrong number: ")
 a = str(num)
 b = int(num)
