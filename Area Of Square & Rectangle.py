@@ -1,6 +1,3 @@
-# Program to calculate the area of a square or rectangle.
-# Created By G.Ravi Teja in 2015.
-
 def area (leng, brd):
         ar = leng*brd
         if (leng==brd):
